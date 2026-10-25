@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 266326301}
   - component: {fileID: 266326300}
   - component: {fileID: 266326303}
+  - component: {fileID: 3100000001}
   m_Layer: 5
   m_Name: Cosmopedia
   m_TagString: Untagged
@@ -202,7 +203,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 266326301}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3100000001}
+        m_TargetAssemblyTypeName: LocalBotsModeButton, Assembly-CSharp
+        m_MethodName: OpenPlayerCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument:
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &266326301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2069,6 +2082,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 455cc9ece8a054f419e636d5cc3c4871, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!114 &3100000001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266326298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1d2d816f2c4c83a0d24d66c31ef0da, type: 3}
   m_Name:
   m_EditorClassIdentifier:
 --- !u!1660057539 &9223372036854775807
