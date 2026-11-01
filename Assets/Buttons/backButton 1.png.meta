@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 8b9d4319ea11fd242b645bc8ae03fc62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1392594495747014841
+    second: backButton 1_0
+  - first:
+      213: 5429330622306322227
+    second: backButton 1_1
+  - first:
+      213: -6857406474609016689
+    second: backButton 1_2
+  - first:
+      213: -7293863314396319332
+    second: backButton 1_3
+  - first:
+      213: -1844216721959503451
+    second: backButton 1_4
+  - first:
+      213: -8339901726264783396
+    second: backButton 1_5
+  - first:
+      213: 2776810729014330750
+    second: backButton 1_6
+  - first:
+      213: -372407980453173463
+    second: backButton 1_7
+  - first:
+      213: 6708242888756077096
+    second: backButton 1_8
+  - first:
+      213: 8720698966707614161
+    second: backButton 1_9
+  - first:
+      213: -1257522624521602335
+    second: backButton 1_10
+  - first:
+      213: -1712293316324898779
+    second: backButton 1_11
+  - first:
+      213: -3613213474840184883
+    second: backButton 1_12
+  - first:
+      213: 66952250671605410
+    second: backButton 1_13
+  - first:
+      213: -29723069166386467
+    second: backButton 1_14
+  - first:
+      213: 3862798134952354136
+    second: backButton 1_15
+  - first:
+      213: -1161798741033876093
+    second: backButton 1_16
+  - first:
+      213: 2285308425167142149
+    second: backButton 1_17
+  - first:
+      213: 6396980218316442730
+    second: backButton 1_18
+  - first:
+      213: -4578744343267362466
+    second: backButton 1_19
+  - first:
+      213: -8364276805932512653
+    second: backButton 1_20
+  - first:
+      213: 8170280472369405292
+    second: backButton 1_21
+  - first:
+      213: 6084364825837310730
+    second: backButton 1_22
+  - first:
+      213: 9030633738734481430
+    second: backButton 1_23
+  - first:
+      213: 7826008211603305307
+    second: backButton 1_24
+  - first:
+      213: 7918823635966548707
+    second: backButton 1_25
+  - first:
+      213: 2792275808187548412
+    second: backButton 1_26
+  - first:
+      213: 6964335997890455870
+    second: backButton 1_27
+  - first:
+      213: -5348021000235337511
+    second: backButton 1_28
+  - first:
+      213: 6463007210906555413
+    second: backButton 1_29
+  - first:
+      213: 1992573600615315643
+    second: backButton 1_30
+  - first:
+      213: -3955227056669795342
+    second: backButton 1_31
+  - first:
+      213: -7044711866180522681
+    second: backButton 1_32
+  - first:
+      213: 4393006336829031575
+    second: backButton 1_33
+  - first:
+      213: 2144932065177699450
+    second: backButton 1_34
+  - first:
+      213: 8778709621748943388
+    second: backButton 1_35
+  - first:
+      213: 3013688560323438334
+    second: backButton 1_36
+  - first:
+      213: 2503954264589319839
+    second: backButton 1_37
+  - first:
+      213: 1324248602227920589
+    second: backButton 1_38
+  - first:
+      213: 6477329492815990834
+    second: backButton 1_39
+  - first:
+      213: 3711660689126460412
+    second: backButton 1_40
+  - first:
+      213: -173612900661401618
+    second: backButton 1_41
+  - first:
+      213: 5250242173902695119
+    second: backButton 1_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backButton 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04a2bc05d735310800000000000000
+      internalID: 1392594495747014841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_1
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1205
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33708b66f6bd85b40800000000000000
+      internalID: 5429330622306322227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804778b42995d0a0800000000000000
+      internalID: -6857406474609016689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1101
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917729c5fdf6ca90800000000000000
+      internalID: -7293863314396319332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_4
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1154
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b4c699a60866e0800000000000000
+      internalID: -1844216721959503451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_5
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 312
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd02501197b24c80800000000000000
+      internalID: -8339901726264783396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_6
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 309
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75846755a6398620800000000000000
+      internalID: 2776810729014330750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 166
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92761953ae0f4daf0800000000000000
+      internalID: -372407980453173463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a8539d57781d50800000000000000
+      internalID: 6708242888756077096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d139b78185260970800000000000000
+      internalID: 8720698966707614161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7f5ce5d16c8ee0800000000000000
+      internalID: -1257522624521602335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528cd290d46bc38e0800000000000000
+      internalID: -1712293316324898779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_12
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7fe7efc794bddc0800000000000000
+      internalID: -3613213474840184883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 95
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a13e97bcdde000800000000000000
+      internalID: 66952250671605410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd204bca607669ff0800000000000000
+      internalID: -29723069166386467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_15
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 73
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85160e0107a6b9530800000000000000
+      internalID: 3862798134952354136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_16
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 87
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850e24533670efe0800000000000000
+      internalID: -1161798741033876093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7b4497eb07bf10800000000000000
+      internalID: 2285308425167142149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc3fbad93a6c850800000000000000
+      internalID: 6396980218316442730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 49
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59383e67480570c0800000000000000
+      internalID: -4578744343267362466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8a539f8e1ceb80800000000000000
+      internalID: -8364276805932512653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 51
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d93e63dcaa26170800000000000000
+      internalID: 8170280472369405292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 65
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a031aef9291007450800000000000000
+      internalID: 6084364825837310730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 67
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103dedf981435d70800000000000000
+      internalID: 9030633738734481430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 54
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b7e521019b9c60800000000000000
+      internalID: 7826008211603305307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_25
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 43
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ead0c4242055ed60800000000000000
+      internalID: 7918823635966548707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28fedad0820c620800000000000000
+      internalID: 2792275808187548412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 43
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e9b201ba46a060800000000000000
+      internalID: 6964335997890455870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_28
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 53
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8b4ad3c3308c5b0800000000000000
+      internalID: -5348021000235337511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 15
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5149fdad0d631b950800000000000000
+      internalID: 6463007210906555413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_30
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 47
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83f75f12b07ab10800000000000000
+      internalID: 1992573600615315643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 47
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbde2992f53c19c0800000000000000
+      internalID: -3955227056669795342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 31
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74da457d1e72c3e90800000000000000
+      internalID: -7044711866180522681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940cbafcf717fc30800000000000000
+      internalID: 4393006336829031575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740344595454cd10800000000000000
+      internalID: 2144932065177699450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 39
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a46aea3ed34d970800000000000000
+      internalID: 8778709621748943388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_36
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6acb547c5c2d920800000000000000
+      internalID: 3013688560323438334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ebbaa1325dfb220800000000000000
+      internalID: 2503954264589319839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce4a1a661da06210800000000000000
+      internalID: 1324248602227920589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305578fad814e950800000000000000
+      internalID: 6477329492815990834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_40
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb0a264bb7728330800000000000000
+      internalID: 3711660689126460412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_41
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7e6a79cf3379df0800000000000000
+      internalID: -173612900661401618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backButton 1_42
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaae30b07b9cd840800000000000000
+      internalID: 5250242173902695119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      backButton 1_0: 1392594495747014841
+      backButton 1_1: 5429330622306322227
+      backButton 1_10: -1257522624521602335
+      backButton 1_11: -1712293316324898779
+      backButton 1_12: -3613213474840184883
+      backButton 1_13: 66952250671605410
+      backButton 1_14: -29723069166386467
+      backButton 1_15: 3862798134952354136
+      backButton 1_16: -1161798741033876093
+      backButton 1_17: 2285308425167142149
+      backButton 1_18: 6396980218316442730
+      backButton 1_19: -4578744343267362466
+      backButton 1_2: -6857406474609016689
+      backButton 1_20: -8364276805932512653
+      backButton 1_21: 8170280472369405292
+      backButton 1_22: 6084364825837310730
+      backButton 1_23: 9030633738734481430
+      backButton 1_24: 7826008211603305307
+      backButton 1_25: 7918823635966548707
+      backButton 1_26: 2792275808187548412
+      backButton 1_27: 6964335997890455870
+      backButton 1_28: -5348021000235337511
+      backButton 1_29: 6463007210906555413
+      backButton 1_3: -7293863314396319332
+      backButton 1_30: 1992573600615315643
+      backButton 1_31: -3955227056669795342
+      backButton 1_32: -7044711866180522681
+      backButton 1_33: 4393006336829031575
+      backButton 1_34: 2144932065177699450
+      backButton 1_35: 8778709621748943388
+      backButton 1_36: 3013688560323438334
+      backButton 1_37: 2503954264589319839
+      backButton 1_38: 1324248602227920589
+      backButton 1_39: 6477329492815990834
+      backButton 1_4: -1844216721959503451
+      backButton 1_40: 3711660689126460412
+      backButton 1_41: -173612900661401618
+      backButton 1_42: 5250242173902695119
+      backButton 1_5: -8339901726264783396
+      backButton 1_6: 2776810729014330750
+      backButton 1_7: -372407980453173463
+      backButton 1_8: 6708242888756077096
+      backButton 1_9: 8720698966707614161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
